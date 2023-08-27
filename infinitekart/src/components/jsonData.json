@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy M33",
+      "path": "https://m.media-amazon.com/images/I/81I3w4J6yjL._SL1500_.jpg",
+      "price": 12999
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy M34",
+      "path": "https://m.media-amazon.com/images/I/91fonhAtoAL._SL1500_.jpg",
+      "price": 19999
+    },
+    {
+      "id": 3,
+      "name": "realme narzo 60 Pro",
+      "path": "https://m.media-amazon.com/images/I/91xdNu6S9DL._SL1500_.jpg",
+      "price": 14999
+    },
+
+    {
+      "id": 4,
+      "name": "OnePlus Nord CE 3 Lite 5G",
+      "path": "https://m.media-amazon.com/images/I/61QRgOgBx0L._SL1500_.jpg",
+      "price": 15999
+    },
+    {
+      "id": 5,
+      "name": "Redmi Note 12 5G",
+      "path": "https://m.media-amazon.com/images/I/81M9+-6f6LL._SL1500_.jpg",
+      "price": 16999
+    },
+    {
+      "id": 5,
+      "name": "POCO X4 Pro 5G",
+      "path": "https://m.media-amazon.com/images/I/61-kzHdLxCL.jpg",
+      "price": 18999
+    }
+  ]
+}
